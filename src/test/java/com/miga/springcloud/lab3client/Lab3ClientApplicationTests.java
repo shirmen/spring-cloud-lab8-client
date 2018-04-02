@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab7wordserver;
+package com.miga.springcloud.lab3client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,10 +7,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Lab7WordServerApplicationTests {
+public class Lab3ClientApplicationTests {
 
-    @Test
-    public void contextLoads() {
-    }
+	@Test
+	public void contextLoads() {
+	}
 
 }
